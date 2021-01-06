@@ -1,7 +1,7 @@
 ##  config/service.yml
 ```shell
 parameters:
-    data: '%kernel.project_dir%/public/data'hp
+    data: '%kernel.project_dir%/public/data'
 ```
 
 ## command/src/Command/CleanEmailsCommand.php
