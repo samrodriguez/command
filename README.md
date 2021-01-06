@@ -1,10 +1,12 @@
-##  config/service.yml
+## Symfony 5
+
+## 1 config/service.yml
 ```shell
 parameters:
     data: '%kernel.project_dir%/public/data'
 ```
 
-## command/src/Command/CleanEmailsCommand.php
+## 2  command/src/Command/CleanEmailsCommand.php
 Add ParameterBagInterface
 ```shell
  // 2. Expose the EntityManager in the class level
