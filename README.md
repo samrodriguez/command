@@ -4,7 +4,7 @@
 2. Clone this git
 3. Move on the project "command" 
 4. run composer install 
-5. run de command: php bin/console app:clean-emails Emails
+5. run the command: php bin/console app:clean-emails Emails
 
 Then you can see in ../public/data the csv file
 ```
