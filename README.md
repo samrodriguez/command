@@ -10,6 +10,7 @@ Then you can see in ../var/www/html/command/public/data the csv file
 ```
 
 ## 1 config/service.yml
+Add Parameter 
 ```shell
 parameters:
     data: '%kernel.project_dir%/public/data'
